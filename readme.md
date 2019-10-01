@@ -17,9 +17,8 @@ wants her website to look, and provided the text. Make her site!
 1. Change into the new directory.
 1. Fulfill the listed requirements.
 
-Starter code is available in [`lib/`](lib/). You are
-required to turn in your submission by making a pull request on the original
-repository.
+Starter code is available in [`lib/`](lib/). You are required to turn in your
+submission by making a pull request on the original repository.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 9:00am.
@@ -58,7 +57,9 @@ it to look like this mock:
 
 ## Plagiarism
 
-Take a moment to refamiliarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.
+Take a moment to refamiliarize yourself with the
+[Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md).
+Plagiarized work will not be accepted.
 
 ## [License](LICENSE)
 
