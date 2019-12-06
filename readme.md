@@ -38,6 +38,9 @@ necessary to make your website look exactly like the following mock:
 Your client knows a thing or two about web design, so be sure your HTML and CSS
 validate.
 
+To check your HTML validates, use this site:
+https://validator.w3.org/#validate_by_input
+
 To check whether your CSS validates, use this site:
 
 https://jigsaw.w3.org/css-validator/#validate_by_input
