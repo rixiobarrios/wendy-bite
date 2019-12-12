@@ -1,0 +1,64 @@
+
+body {
+    background: rgb(56, 55, 55);
+    color: white;
+    padding: 100px;
+    border: 5px solid gray;
+    margin: 90px;
+}
+
+header {
+    grid-row: 1;
+    grid-column: 1 / span 3;
+    border-bottom: 1px solid gray;
+    padding-bottom: 30px;
+}
+
+nav {
+    text-align: center;
+}
+
+a {
+    color: rgb(96, 168, 100);
+    font-family: 'Alatsi', sans-serif;
+    font-size: 25px;
+   
+}
+
+.active {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    border: 1px solid gray;
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    height: 400px;
+}
+
+h1 {
+    font-family: 'Solway', serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Solway', serif;
+    font-size: 40px;
+    padding: 20px 0 20px 0;
+}
+
+p {
+    font-family: 'Solway', serif;
+    font-size: 22px;
+}    
+
+footer {
+    grid-row: 3;
+    grid-column: 1 / span 3;
+    text-align: center;
+    border-top: 1px solid gray;
+    padding-top: 30px;
+}
